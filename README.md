@@ -1,7 +1,6 @@
+# A Web Store Template
 
-# An Application to Manage Data in Elementary School
-
-If you need an application to manage so much data in elementary school, maybe this application is a solution for you. Just try this, and change according to your needs. This application is made using:
+If you need a template for your web store, maybe this template is a solution for you. Just try this, and change according to your needs. This application is made using:
 - HTML
 - CSS
 - JavaScript
