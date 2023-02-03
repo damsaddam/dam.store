@@ -1,6 +1,6 @@
 # A Web Store Template
 
-If you need a template for your web store, maybe this template is a solution for you. Just try this, and change according to your needs. My pleasure to help you all. This application is made using:
+If you need a template for your web store, maybe this template is a solution for you. Just try this, and change according to your needs. My pleasure to help you all. This template was made using:
 - HTML
 - CSS
 - JavaScript
