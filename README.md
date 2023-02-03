@@ -4,6 +4,7 @@ If you need a template for your web store, maybe this template is a solution for
 - HTML
 - CSS
 - JavaScript
+- jQuery
 
 
 ## Features
